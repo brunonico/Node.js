@@ -1,1 +1,1 @@
-# Curso de Express.js brindado por Platzi
+# Curso de Node.js brindado por Platzi
